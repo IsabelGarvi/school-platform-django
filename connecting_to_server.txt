@@ -1,3 +1,0 @@
-./cloud_sql_proxy -instances=commanding-time-281718:europe-west2:school-database=tcp:5432
-
-DB_NAME=postgres DB_USER=admin DB_PASS=postgrespassword DB_HOST=127.0.0.1 DB_PORT=5432 ./manage.py test 
